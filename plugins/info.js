@@ -18,7 +18,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ┃Kunci ✅
 ┃➜ GOPAY: 088805868341
 ┃➜ DANA : 088805868341
-┃➜ TELKOMSEL : 088805868341
+┃➜ SMARTFREN : 088805868341
 ┃*TERTARIK?* Chat Owner Sekarang
 ┃Juga dengan Ketik *.Owner*
 ┣❀ SYARAT & KETENTUAN 
