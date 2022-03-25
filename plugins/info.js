@@ -10,19 +10,19 @@ let handler  = async (m, { conn, usedPrefix }) => {
   await m.reply('Tunggu Sebentar Kakak!!')
   let neww = Math.round(performance.now())
   conn.reply(m.chat, `
-┏━━━━━『𝐔𝐃𝐈𝐍 𝐁𝐎𝐓』━━━━━
+┏━━━━━『𝐃𝐈𝐍𝐁𝐎𝐓𝐙』━━━━━
 ┃ *Versi:* 2
 ┃
-┣『BELI PREMIUM 𝐔𝐃𝐈𝐍 𝐁𝐎𝐓 』
+┣『BELI PREMIUM 𝐃𝐈𝐍𝐁𝐎𝐓𝐙 』
 ┃> Keuntungan Akses Fitur Yang di 
 ┃Kunci ✅
 ┃➜ GOPAY: 088805868341
 ┃➜ DANA : 088805868341
-┃➜ SMARTFREN : 088805868341
+┃➜ TELKOMSEL : 088805868341
 ┃*TERTARIK?* Chat Owner Sekarang
 ┃Juga dengan Ketik *.Owner*
 ┣❀ SYARAT & KETENTUAN 
-┃『𝐔𝐃𝐈𝐍 𝐁𝐎𝐓』
+┃『𝐃𝐈𝐍𝐁𝐎𝐓𝐙』
 ┃
 ┃➜ *KAMI TIDAK BERTANGGUNG*
 ┃   *JAWAB ATAS PENYALAH*
@@ -34,10 +34,11 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ┃   *SEPERTI NOMER TELEPON*
 ┃   *ANDA DI DATABASE KAMI*
 ┃ 
+┃𝑹𝑼𝑵𝑵𝑰𝑵𝑮 𝑩𝒚 𝑵𝒂𝒇𝒓𝒐𝒏
 ┃ 
 ┣❀©2022 𝗦𝘆𝗮𝗶𝗳𝘂𝗱𝗱𝗶𝗻
 ┣ Follow Tiktok @nafronanjayy
-┗━━━━━『𝐔𝐃𝐈𝐍 𝐁𝐎𝐓』 ┅
+┗━━━━━『𝐃𝐈𝐍𝐁𝐎𝐓𝐙』 ┅
 `.trim(), m)
 }
 handler.help = ['info']
